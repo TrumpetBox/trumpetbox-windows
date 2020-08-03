@@ -1,2 +1,2 @@
-# TrumpetBox Contactless Kiosk System \
+# TrumpetBox Contactless Kiosk System
 ## Windows Desktop Application
