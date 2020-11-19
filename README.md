@@ -3,7 +3,7 @@
 # TrumpetBox Contactless Kiosk System
 ## Windows Desktop Administration Application
 
-The TrumpetBox Contactless Kiosk must be connected to your network or to with your desktop/laptop to experience full features.
+The TrumpetBox Contactless Kiosk must be connected to your network or to your desktop/laptop to experience full features.
 
 
 Instructions:
