@@ -8,13 +8,13 @@ The TrumpetBox Contactless Kiosk must be connected to your network or to with yo
 
 Instructions:
 
-Download
+- Download
 
-Unzip TrumpetBox Desktop Windows Application into a folder
+- Unzip TrumpetBox Desktop Windows Application into a folder
 
-Change into the unzipped TrumpetBox Desktop Windows Application folder
+- Change into the unzipped TrumpetBox Desktop Windows Application folder
 
-Double Click on TrumpetBox.exe
+- Double Click on TrumpetBox.exe
 
 Enjoy!
 
